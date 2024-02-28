@@ -34,7 +34,7 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I learn the new technologies, solve my projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/justedlev)
+- :mailbox:How to reach me: [email](mailto:edyardlyk@gmail.com), [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/justedlev)
 
 ---
 
