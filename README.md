@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
 ---
@@ -32,7 +32,7 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve my projects and read tech articles.
+- :zap: In my free time, I learn the new technologies, solve my projects and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/justedlev)
 
@@ -49,6 +49,7 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -74,4 +75,4 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justedlev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
