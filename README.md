@@ -1,32 +1,22 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdleGp1ejdjZnE4eXl6NXVvdjUxcXhveW55b2Z4bnl0OTFycTh5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-    <div id="badges">
-        <a href="https://linkedin.com/in/justedlev">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
-        </a>
-        <!-- <a href="your-youtube-URL">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        </a> -->
-        <a href="https://twitter.com/justedlev">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"/>
-        </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=Justedlev&style=flat-square&color=blue" alt=""/>
     <h1>
-        hey there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+        I'm Edward L.
     </h1>
+    <h3>Just a Software Engineer</h3>
+    <img src="https://komarev.com/ghpvc?username=justedlev&style=flat&color=blue" alt="justedlev"/>
 </div>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-</div>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=justedlev" alt="justedlev" />
+    </a>
+</p>
 
 ---
 
-### :man_technologist: About Me :
-
-I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: About Me:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -34,13 +24,27 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I learn the new technologies, solve my projects and read tech articles.
 
-- :mailbox:How to reach me: [email](mailto:edyardlyk@gmail.com), [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/justedlev)
+- :mailbox:How to reach me: [edyardlyk@gmail.com](mailto:edyardlyk@gmail.com)
+
+### Contact with me:
+
+<p align="left">
+    <a href="https://linkedin.com/in/justedlev" target="blank">
+        <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="in/justedlev" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/justedlev" target="blank">
+        <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="instagram:justedlev" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100006351122568" target="blank"/>
+        <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="facebook:justedlev" height="30" width="40" />
+    </a>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
