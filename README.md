@@ -73,4 +73,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=justedlev&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
