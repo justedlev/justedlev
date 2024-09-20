@@ -5,12 +5,12 @@
         I'm Edward L.
     </h1>
     <h3>Just a Software Engineer</h3>
-    <img src="https://komarev.com/ghpvc?username=justedlev&style=flat&color=blue" alt="justedlev"/>
+    <img src="https://komarev.com/ghpvc?username=justedlev&style=flat&color=red" alt="justedlev"/>
 </div>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=justedlev" alt="justedlev" />
+        <img src="https://github-profile-trophy.vercel.app?username=justedlev&theme=onedark" alt="justedlev" />
     </a>
 </p>
 
@@ -71,6 +71,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justedlev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=justedlev&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justedlev&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
