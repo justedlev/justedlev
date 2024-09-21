@@ -1,17 +1,15 @@
 <div id="header" align="center">
-    <h1>
-        Hey there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-        I'm Edward L.
-    </h1>
-    <h3>Just a Software Engineer</h3>
-    <img src="https://komarev.com/ghpvc?username=justedlev&style=flat&color=red" alt="justedlev"/>
+<h1>
+Hey there
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" />,
+I'm Edward L.
+</h1>
+<h3>Just a Software Engineer</h3>
+<img src="https://komarev.com/ghpvc?username=justedlev&style=flat&color=red" alt="justedlev"/>
 </div>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app?username=justedlev&theme=onedark" alt="justedlev" />
-    </a>
+<a href="/"><img src="https://github-profile-trophy.vercel.app?username=justedlev&theme=onedark" alt="justedlev" /></a>
 </p>
 
 ---
