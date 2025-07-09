@@ -22,7 +22,7 @@ I'm Edward L.
 
 - :zap: In my free time, I learn the new technologies, solve my projects and read tech articles.
 
-- :mailbox:How to reach me: **[edyardlyk@gmail.com](mailto:edyardlyk@gmail.com)**
+- :mailbox:How to reach me: **[edward.lukashevits@gmail.com](mailto:edward.lukashevits@gmail.com)**
 
 ### :pencil: Contact with me:
 
